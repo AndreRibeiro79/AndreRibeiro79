@@ -1,4 +1,4 @@
-### Olá! Eu sou André Ribeiro 
+### Olá! Eu sou André Ribeiro ✌️
 
 - ☑️ Tenho o curso Desenvolvimento Web - UDEMY
 - 🌱 Estudando JavaScript
